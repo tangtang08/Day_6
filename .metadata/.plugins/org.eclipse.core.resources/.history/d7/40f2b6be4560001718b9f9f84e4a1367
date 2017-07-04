@@ -1,0 +1,25 @@
+//Tangy F.
+//Displaying odd numbers less than 40 using inheritance
+
+package fortylesspack;
+
+public class Fortylessmain {
+
+	public static void main(String[] args) {
+		
+		for ( int r=2; r<= 2; r++)	{
+System.out.println(" Hi");			
+		}
+	}
+}
+	// declare a variable 
+				//int r=1;
+		
+	//public void int odd( ){
+		
+
+	
+		
+	//}
+			
+
